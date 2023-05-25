@@ -18,7 +18,7 @@ Whitepaper: https://kimiyo.net/doc/KIMIYO-Whitepaper.pdf
 # KIMIYO ERC20 Contract
 ERC20 Contract: https://etherscan.io/token/0x3fbf4f4a592496bc4c19a4c2bab34c35180d9462
 
-# KIMIYO EtherScan Discussion
+# KIMIYO Etherscan Discussion
 Discussion: https://etherscan.io/token/0x3fbf4f4a592496bc4c19a4c2bab34c35180d9462#comments
 
 # KIMIYO Contact
