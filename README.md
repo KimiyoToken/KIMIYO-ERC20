@@ -8,3 +8,12 @@ KIMIYO is decentralized, meaning it operates without a central authority or sing
 # Security & Transactions of KIMIYO
 The project utilizes the latest solidity version on the Ethereum Remix Deployment to ensure the security of the network.
 A 3% out of each Swap is going back to the Swap Liquidity. All transactions are encrypted and stored on the ETH Blockchain, making them secure and immutable.
+
+# KIMIYO URLs
+Website: https://kimiyo.net
+Whitepaper: https://kimiyo.net/doc/KIMIYO-Whitepaper.pdf
+ERC20 Contract: https://etherscan.io/token/0x3fbf4f4a592496bc4c19a4c2bab34c35180d9462
+Discussion: https://etherscan.io/token/0x3fbf4f4a592496bc4c19a4c2bab34c35180d9462#comments
+Contact: https://kimiyo.net/#contact
+GitHub: https://github.com/KimiyoToken
+Twitter: https://twitter.com/KimiyoToken
